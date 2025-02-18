@@ -19,16 +19,16 @@ int main(void)
 
 	int la_dig = n % 10;
 
-	printf("Last digit of %d is ", n);
+		printf("Last digit of %d is ", n);
 
-	if (la_dig > 5)
-		printf("%d and is greater than 5\n", la_dig);
+		if (la_dig > 5)
+			printf("%d and is greater than 5\n", la_dig);
 
-	else if (la_dig == 0)
-		printf("%d and is zero\n", la_dig);
+		else if (la_dig == 0)
+			printf("%d and is zero\n", la_dig);
 
-	else
-		printf("%d and is less than 6 and not 0", la_dig);
+		else
+			printf("%d and is less than 6 and not 0", la_dig);
 
 	return (0);
 }
