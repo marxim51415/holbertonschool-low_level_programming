@@ -7,7 +7,7 @@
  * who's gonna use this? likely no one ever*
  * who wrote this?that's not english*
  * also la_dig stands for last_digit*
- * Return: Always 0 (success)
+ * Return: Always (success)
  */
 
 int main(void)
