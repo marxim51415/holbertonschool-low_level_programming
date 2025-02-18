@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
+
 /**
- * main - entry point
- * Return: Always 0 (Success)
-/*
+ * main - prints sign of random number*
+ * Return: Always (Success)
+*/
 
 int main(void)
 {
