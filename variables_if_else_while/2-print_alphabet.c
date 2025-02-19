@@ -4,7 +4,8 @@
 
 /**
  * main - print alphabet in two uses of putchar and a for loop. wish me luck
- * return: always (0) (success)
+ *
+ * return: always 0 (success)
  */
 
 int main(void)
