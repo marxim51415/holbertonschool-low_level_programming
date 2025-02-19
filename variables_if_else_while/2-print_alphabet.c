@@ -3,9 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - print alphabet in two uses of putchar and a for loop. wish me luck
- *
- * return: always 0 (success)
+ * main - print alphabet in two uses of putchar and a for loop. wish me luck*
+ * Return: always 0 (success)
  */
 
 int main(void)
