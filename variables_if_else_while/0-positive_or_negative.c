@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - prints sign of random number*
- * Return: Always (Success)
-*/
+ * main - prints sign of random number
+ * %d for integrating integers
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

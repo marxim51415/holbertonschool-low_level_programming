@@ -3,23 +3,23 @@
 #include <stdio.h>
 
 /**
- * main - prints whether last digit of random number is between 0 and 6*
- * who's gonna use this? likely no one ever*
- * who wrote this?that's not english*
- * also la_dig stands for last_digit*
+ * main - prints whether the last digit of a random number
+ * is under or above five, or zero
+ * euclidian division by 10 achieves this
+ * also la_dig stands for last_digit
  * Return: Always (success)
  */
 
 int main(void)
 {
-	int n;
+	int najwa;
 	int la_dig;
 
 	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	la_dig = n % 10;
+	najwa = rand() - RAND_MAX / 2;
+	la_dig = najwa % 10;
 
-	printf("Last digit of %d is ", n);
+	printf("Last digit of %d is ", najwa);
 
 	if (la_dig > 5)
 		printf("%d and is greater than 5\n", la_dig);
