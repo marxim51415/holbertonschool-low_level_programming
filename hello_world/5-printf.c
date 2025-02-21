@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - prints the following character string with a newline at the end
  * Return: Always 0 (Success)
  */
 

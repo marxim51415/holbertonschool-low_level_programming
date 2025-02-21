@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-* main - entry point
+* main - prints the following character string with
+* a " character included at the start
 * Return: Always 0 (Success)
 */
 

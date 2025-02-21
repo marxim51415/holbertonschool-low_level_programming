@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - prints the respective sizes of various data types
+ * using %lu bc it's compatible with
+ * the value returned by sizeof
  * Return: Always 0 (Success)
  */
 
