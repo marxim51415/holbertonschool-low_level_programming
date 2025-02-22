@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - boyoyoyowowowoo
- *
+ * main - project required printing digits
+ * without using int -> going the char route
  * Return: always 0 (success)
  */
 

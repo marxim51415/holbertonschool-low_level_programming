@@ -3,8 +3,11 @@
 #include <stdlib.h>
 
 /**
- * main - shoutout to Olivia
- *
+ * main - prints the alphabet minus two letters
+ * simplest way i found to do this is to gate
+ * putchar behind an if conditional that checks for
+ * the letters we want to skip
+ * don't increment letter in the if or else…
  * Return: always 0 (success)
  */
 
