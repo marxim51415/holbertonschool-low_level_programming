@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - series of soviet experiments on how char and putchar work*
+ * main - series of soviet experiments on how char and putchar work
+ * my first use of decremental loop
  * Return: always 0
  */
 

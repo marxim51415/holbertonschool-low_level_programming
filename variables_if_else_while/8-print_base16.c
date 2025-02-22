@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - gronkey donk
- *
+ * main - prints 0123456789abcdef
+ * not following each other in the ASCII table
+ * therefore declare two different variables and loop separately
  * Return: always 0
  */
 
