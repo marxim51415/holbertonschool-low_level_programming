@@ -7,10 +7,13 @@
 
 int _abs(int n)
 {
-	unsigned char myChar;
+	if (n >= 0)
+	{
+	return (n);
+	}
 
-	myChar = unsigned int(n);
-
-	_putchar(myChar);
-	return (0);
+	else
+	{
+	return (-n);
+	}
 }
