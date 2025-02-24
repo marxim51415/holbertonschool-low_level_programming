@@ -2,7 +2,8 @@
 
 /**
  * print_alphabet_x10 - does what it does
- * Return: Always 0.
+ *
+ * Return: void
  */
 int main(void)
 {
