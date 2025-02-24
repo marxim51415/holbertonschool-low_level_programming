@@ -17,7 +17,7 @@ void times_table(void)
 		{
 			product = nine * times;
 
-			if (product == 0)
+			if (times == 0)
 			{
 			_putchar('0' + product);
 			}
