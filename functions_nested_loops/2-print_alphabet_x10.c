@@ -8,7 +8,7 @@
 void print_alphabet_x10(void)
 {
 	char letter;
-	int i = '0';
+	int i = 0;
 
 	letter = 'a';
 
@@ -19,6 +19,7 @@ void print_alphabet_x10(void)
 		_putchar(letter);
 		letter++;
 		}
+	letter = 'a';
 	_putchar('\n');
 	}
 }
